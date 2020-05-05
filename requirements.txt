@@ -1,0 +1,9 @@
+Flask
+numpy
+matplotlib
+pandas
+statsmodels
+pmdarima
+scikit-learn
+math
+gunicorn
